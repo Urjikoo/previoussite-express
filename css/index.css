@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  background-image: url("glo.jpeg");
+}
+.contents {
+  border: 2px black;
+  height: 570px;
+  width: 60%;
+  padding: 3px;
+  background-color: rgb(180, 194, 162);
+  border-radius: 12px;
+  margin: 30px 50px;
+}
+p {
+  margin: 10;
+  text-indent: 3ch;
+  content: " ¶ ";
+  line-height: 1.6;
+}
+a {
+  color: whitesmoke;
+  font-size: 20px;
+}

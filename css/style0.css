@@ -1,0 +1,23 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  background-image: url("storm.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+a {
+  color: aliceblue;
+}
+.content {
+  border: 1px solid green;
+  height: 250px;
+  width: 40%;
+  margin: 55px 50px;
+  background-color: rgb(92, 123, 110);
+  opacity: 0.8;
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+form {
+  margin: 30px;
+}
